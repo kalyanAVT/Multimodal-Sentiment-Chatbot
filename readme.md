@@ -49,7 +49,7 @@ An intelligent sentiment-aware chatbot that blends the power of **fine-tuned BER
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kalyanAVT/Mini-GPT-PHI2-Chatbot-BERT-Fine-Tuning.git
+git clone [https://github.com/kalyanAVT/Multimodal-Sentiment-Chatbot](https://github.com/kalyanAVT/Multimodal-Sentiment-Chatbot.git)
 cd Mini-GPT-PHI2-Chatbot-BERT-Fine-Tuning
 ```
 
