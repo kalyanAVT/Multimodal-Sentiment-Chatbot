@@ -50,7 +50,7 @@ An intelligent sentiment-aware chatbot that blends the power of **fine-tuned BER
 
 ```bash
 git clone https://github.com/kalyanAVT/Multimodal-Sentiment-Chatbot.git
-cd Mini-GPT-PHI2-Chatbot-BERT-Fine-Tuning
+cd Multimodal-Sentiment-Chatbot
 ```
 
 ## 2. Install Dependencies
